@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/daviddzwu/LeetCode/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/daviddzwu/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
