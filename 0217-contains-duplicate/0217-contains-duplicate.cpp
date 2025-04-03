@@ -1,17 +1,16 @@
-using namespace std;
-
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_set<int> seen; // Use unordered_set for faster lookups and reduced memory overhead
+        unordered_map<int, int> hash;
 
-        for (int num : nums) {
-            if (seen.count(num)) { // Check if the number already exists in the set
-                return true; // Duplicate found
+        for(int i = 0; i < nums.size(); i++){
+            if(hash.find(nums.at(i)) != hash.end()){
+                return true;
             }
-            seen.insert(num); // Add the number to the set
+            else{
+                hash[nums.at(i)] = i;
+            }
         }
-
-        return false; // No duplicates found
+    return false;
     }
 };
