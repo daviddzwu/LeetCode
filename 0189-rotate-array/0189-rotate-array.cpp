@@ -3,11 +3,11 @@ public:
     void rotate(vector<int>& nums, int k) {
         int size = nums.size();
         k = k % nums.size();
-        vector<int> rotated(nums.size());
-        for(int i = 0; i < nums.size(); i++){
-            rotated[(i+k) % nums.size()] = nums[i];
+        vector<int> rotated(size);
+        for(int i = 0; i < size; i++){
+            rotated[(i+k) % size] = nums[i];
         }
-        for(int i = 0; i < nums.size(); i++){
+        for(int i = 0; i < size; i++){
             nums[i] = rotated[i];
         }
     }
