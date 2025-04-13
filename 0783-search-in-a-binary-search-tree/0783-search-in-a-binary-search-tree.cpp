@@ -15,18 +15,11 @@ public:
         if(!root) return nullptr;
         if(root->val == val) return root;
 
-        TreeNode* curr = root;
-        while(curr != nullptr){
-            if(curr->val == val){
-                return curr;
-            }
-            else if(val < curr->val){
-                curr = curr->left;
-            }
-            else if(val > curr->val){              
-                curr = curr->right;
-            }
+        if (val < root->val){
+            return searchBST(root->left, val);
         }
-        return curr;
+        else{
+            return searchBST(root->right, val);
+        }
     }
 };
