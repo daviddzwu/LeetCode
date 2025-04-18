@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/daviddzwu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/daviddzwu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/daviddzwu/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/daviddzwu/LeetCode/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daviddzwu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/daviddzwu/LeetCode/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/daviddzwu/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/daviddzwu/LeetCode/tree/master/0392-is-subsequence) |
 ## Binary Search Tree
 |  |
 | ------- |
