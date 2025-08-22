@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/daviddzwu/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/daviddzwu/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/daviddzwu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/daviddzwu/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/daviddzwu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/daviddzwu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/daviddzwu/LeetCode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/daviddzwu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/daviddzwu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/daviddzwu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/daviddzwu/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/daviddzwu/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/daviddzwu/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -106,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/daviddzwu/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/daviddzwu/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/daviddzwu/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
