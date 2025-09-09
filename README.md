@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/daviddzwu/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/daviddzwu/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/daviddzwu/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/daviddzwu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/daviddzwu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/daviddzwu/LeetCode/tree/master/0383-ransom-note) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/daviddzwu/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/daviddzwu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/daviddzwu/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/daviddzwu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/daviddzwu/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/daviddzwu/LeetCode/tree/master/0392-is-subsequence) |
 ## Binary Search Tree
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/daviddzwu/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/daviddzwu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/daviddzwu/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
